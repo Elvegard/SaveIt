@@ -1,2 +1,4 @@
-# SaveIt
-Terminal easy and fast save notes with tags
+SaveIt
+Easy terminal save notes with tags. 
+
+Written in Python
