@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Emacs files
+*.*~
+
+# SaveIt database file
+saveit.dat
